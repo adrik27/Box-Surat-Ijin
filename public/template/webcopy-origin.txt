@@ -1,0 +1,1888 @@
+Uri: https://cdn.datatables.net/buttons/1.6.4/css/buttons.dataTables.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\buttons\1.6.4\css\buttons.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\ajax\libs\moment.js\2.29.4\moment.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.4/nouislider.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\ajax\libs\noUiSlider\14.6.4\nouislider.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Material+Icons
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hD45W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hD45W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hEk5W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hEk5W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA-W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA-W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hL4-W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hL4-W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-W1Q.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-W1Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\materialicons\v140\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index.htm
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/analytics.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\analytics.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/app-calender.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\app-calender.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/app-profile-1.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\app-profile-1.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/app-profile-2.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\app-profile-2.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/blog.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\blog.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-chartist.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-chartist.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-chartjs.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-chartjs.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-flot.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-flot.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-morris.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-morris.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-peity.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-peity.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chart-sparkline.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chart-sparkline.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/chat.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\chat.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/crm.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\crm.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/css/style.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\css\style.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-checkout.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-checkout.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-customers.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-customers.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-invoice.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-invoice.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-product-detail.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-product-detail.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-product-grid.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-product-grid.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-product-list.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-product-list.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ecom-product-order.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ecom-product-order.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/edit-profile.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\edit-profile.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/email-compose.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\email-compose.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/email-inbox.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\email-inbox.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/email-read.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\email-read.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/empty-page.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\empty-page.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/form-ckeditor.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\form-ckeditor.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/form-element.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\form-element.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/form-pickers.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\form-pickers.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/form-validation.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\form-validation.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/form-wizard.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\form-wizard.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/css/style.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\css\style.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/fonts/avasta.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\fonts\avasta.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/fonts/avasta.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\fonts\avasta.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/fonts/avasta.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\fonts\avasta.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/fonts/avasta.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\fonts\avasta.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/avasta/fonts/avasta.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\avasta\fonts\avasta.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/bootstrap-icons/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\bootstrap-icons\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/bootstrap-icons/font/fonts/bootstrap-icons.woff2?8bd4575acf83c7696dc7a14a966660a3
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\bootstrap-icons\font\fonts\bootstrap-icons.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/bootstrap-icons/font/fonts/bootstrap-icons.woff?8bd4575acf83c7696dc7a14a966660a3
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\bootstrap-icons\font\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/flaticon_1.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\flaticon_1.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/flaticon_1/Flaticon_1.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\flaticon_1\Flaticon_1.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/css/all.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\css\all.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/fontawesome6/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\fontawesome6\webfonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/icomoon/fonts/icomoon.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\icomoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/icomoon/fonts/icomoon.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\icomoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/icomoon/fonts/icomoon.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\icomoon\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/icomoon/fonts/icomoon.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\icomoon\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/icomoon/icomoon.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\icomoon\icomoon.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/line-awesome/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\line-awesome\fonts\la-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?v=2.4.85
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg?v=2.4.85
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf?v=2.4.85
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=2.4.85
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff?v=2.4.85
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.eot?-i3a2kk
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.svg?-i3a2kk
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf?-i3a2kk
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff2?-i3a2kk
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff2
+Content Type: application/font-woff2
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff?-i3a2kk
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Iconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/icons/themify-icons/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\icons\themify-icons\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/analytics/developer_male.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\analytics\developer_male.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/analytics/sales.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\analytics\sales.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/analytics/shopping.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\analytics\shopping.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/avatar/5.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\avatar\5.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/background/bg6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\background\bg6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/bg.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\bg.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img7.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/big/img8.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\big\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/professional.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\professional.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/professional2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\professional2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/blog/s6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\blog\s6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/books.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\books.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/budgeting.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\budgeting.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/card/1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\card\1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/card/2.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\card\2.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/card/3.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\card\3.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/2.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\2.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/3.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\3.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/4.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\4.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/5.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\5.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/google-docs1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\google-docs1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/music-notes1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\music-notes1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/pdf.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\pdf.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/chat/play-button1.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\chat\play-button1.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d10.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d10.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d11.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d11.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d12.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d12.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d14.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d14.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/d4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\d4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic555.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic555.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic666.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic666.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic777.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic777.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic888.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic888.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/contacts/pic999.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\contacts\pic999.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/country/canada.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\country\canada.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/country/china.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\country\china.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/country/india.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\country\india.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/country/united-kingdom.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\country\united-kingdom.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/country/usa.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\country\usa.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm-profile.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm-profile.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/bing.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\bing.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/dribble.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\dribble.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/facebook.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\facebook.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/instagram.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\instagram.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/linkedin.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\linkedin.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/Object.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\Object.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/party-popper.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\party-popper.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/pie-chart.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\pie-chart.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/pinterest.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\pinterest.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/twitter.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\twitter.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/crm/whatsapp.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\crm\whatsapp.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/favicon.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\favicon.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/file.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\file.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/heart.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\heart.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/items.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\items.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/logo/logo-full.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\logo\logo-full.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/logo/logofull-white.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\logo\logofull-white.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/news.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\news.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/os/p1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\os\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/os/p2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\os\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/os/p3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\os\p3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/os/p5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\os\p5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/p.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\p.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/p1.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\p1.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/p2.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\p2.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/p3.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\p3.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/pattern/pattern5.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\pattern\pattern5.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/post/post1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\post\post1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/post/post11.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\post\post11.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/post/post12.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\post\post12.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/post/post13.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\post\post13.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/post/post2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\post\post2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/pre.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\pre.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/product/7.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/12.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\12.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/7.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\7.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/8.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\8.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/9.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\9.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/cover.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/friends/f1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\friends\f1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/friends/f2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\friends\f2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/friends/f3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\friends\f3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/friends/f4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\friends\f4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/profile.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\profile.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic10.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic5.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic6.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic7.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic8.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/profile/small/pic9.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\profile\small\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/qr.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\qr.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/rainbow.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\rainbow.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/tab/1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\tab\1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/tab/2.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\tab\2.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/tab/3.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\tab\3.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/tab/4.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\tab\4.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/uidesgn.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\uidesgn.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/user.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\user.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/user1.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\user1.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/images/windows.jpg
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\images\windows.jpg
+Content Type: image/jpeg
+
+Uri: https://yashadmin.dexignzone.com/xhtml/index-2.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index-2.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/index-3.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index-3.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/index-4.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index-4.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/index-5.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index-5.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/index.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\index.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/custom.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/analytics.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\analytics.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/crm.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\crm.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/dashboard-1.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\dashboard-1.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/dashboard-2.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\dashboard-2.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/dashboard-3.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\dashboard-3.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/dashboard-4.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\dashboard-4.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/product.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\product.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/dashboard/sales.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\dashboard\sales.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/demo.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\demo.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/deznav-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\deznav-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\highlight.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/bs-daterange-picker-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\bs-daterange-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/chartist-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\chartist-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/chartjs-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\chartjs-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/clock-picker-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\clock-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/datatables.init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\datatables.init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/flot-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\flot-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/fullcalendar-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\fullcalendar-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/jquery-asColorPicker.init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\jquery-asColorPicker.init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/jquery.validate-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\jquery.validate-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/jqvmap-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\jqvmap-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/material-date-picker-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\material-date-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/morris-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\morris-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/nestable-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\nestable-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/nouislider-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\nouislider-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/pickadate-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\pickadate-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/piety-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\piety-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/select2-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\select2-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/sparkline-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\sparkline-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/sweetalert.init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\sweetalert.init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/toastr-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\toastr-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/plugins-init/widgets-script-init.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\plugins-init\widgets-script-init.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/js/styleSwitcher.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\js\styleSwitcher.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/map-jqvmap.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\map-jqvmap.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-error-400.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-error-400.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-error-403.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-error-403.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-error-404.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-error-404.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-error-500.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-error-500.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-error-503.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-error-503.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-lock-screen.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-lock-screen.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-login.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-login.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/page-register.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\page-register.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/post-details.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\post-details.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/products.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\products.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/project.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\project.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/sales.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\sales.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/table-bootstrap-basic.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\table-bootstrap-basic.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/table-datatable-basic.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\table-datatable-basic.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/task.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\task.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-lightgallery.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-lightgallery.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-nestable.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-nestable.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-noui-slider.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-noui-slider.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-select2.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-select2.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-sweetalert.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-sweetalert.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/uc-toastr.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\uc-toastr.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-accordion.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-accordion.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-alert.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-alert.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-badge.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-badge.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-button-group.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-button-group.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-button.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-button.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-card.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-card.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-carousel.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-carousel.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-dropdown.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-dropdown.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-grid.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-grid.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-list-group.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-list-group.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-modal.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-modal.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-pagination.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-pagination.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-popover.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-popover.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-progressbar.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-progressbar.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-tab.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-tab.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/ui-typography.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\ui-typography.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/user.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\user.html
+Content Type: text/html
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/aos/css/aos.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\aos\css\aos.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/apexchart/apexchart.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\apexchart\apexchart.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-daterangepicker\daterangepicker.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-datetimepicker\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-datetimepicker\js\bootstrap-datetimepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-datetimepicker/js/moment.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-datetimepicker\js\moment.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-select/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-select\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/bootstrap-select/dist/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\bootstrap-select\dist\js\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/chart.js/Chart.bundle.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\chart.js\Chart.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\chartist-plugin-tooltips\js\chartist-plugin-tooltip.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/chartist/css/chartist.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\chartist\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/chartist/js/chartist.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\chartist\js\chartist.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/ckeditor/ckeditor.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\ckeditor\ckeditor.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/clockpicker/css/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\clockpicker\css\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/clockpicker/js/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\clockpicker\js\bootstrap-clockpicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/images/sort_both.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\images\sort_both.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/images/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\images\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/js/buttons.html5.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\js\buttons.html5.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/js/dataTables.buttons.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\js\dataTables.buttons.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\js\jquery.dataTables.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/datatables/js/jszip.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\datatables\js\jszip.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/deznav/deznav.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\deznav\deznav.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/draggable/draggable.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\draggable\draggable.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/dropzone/dist/dropzone.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\dropzone\dist\dropzone.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/dropzone/dist/dropzone.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\dropzone\dist\dropzone.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/flot-spline/jquery.flot.spline.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\flot-spline\jquery.flot.spline.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\flot\jquery.flot.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\flot\jquery.flot.pie.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/flot/jquery.flot.resize.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\flot\jquery.flot.resize.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/fullcalendar/css/main.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\fullcalendar\css\main.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/fullcalendar/js/main.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\fullcalendar\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/global/global.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\global\global.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/highlightjs/highlight.pack.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\highlightjs\highlight.pack.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColor/jquery-asColor.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColor\jquery-asColor.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/css/asColorPicker.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\css\asColorPicker.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/images/alpha.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\images\alpha.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/images/hue.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\images\hue.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/images/saturation.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\images\saturation.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/images/transparent.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\images\transparent.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asColorPicker/js/jquery-asColorPicker.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asColorPicker\js\jquery-asColorPicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-asGradient/jquery-asGradient.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-asGradient\jquery-asGradient.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-nice-select/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-nice-select\js\jquery.nice-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-smartwizard/dist/css/smart_wizard.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-smartwizard\dist\css\smart_wizard.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-smartwizard/dist/js/jquery.smartWizard.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-smartwizard\dist\js\jquery.smartWizard.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-sparkline\jquery.sparkline.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-steps/build/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-steps\build\jquery.steps.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jquery-validation/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jquery-validation\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jqvmap/css/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jqvmap\css\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jqvmap/js/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jqvmap\js\jquery.vmap.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jqvmap/js/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jqvmap\js\jquery.vmap.usa.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jqvmap/js/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jqvmap\js\jquery.vmap.world.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/jvmap/jquery-jvectormap.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\jvmap\jquery-jvectormap.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/css/lightgallery.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\fonts\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/img/video-play.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\img\video-play.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/lightgallery/js/lightgallery-all.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\lightgallery\js\lightgallery-all.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/metismenu/css/metisMenu.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\metismenu\css\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\moment\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\morris\morris.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/nestable2/css/jquery.nestable.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\nestable2\css\jquery.nestable.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/nestable2/js/jquery.nestable.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\nestable2\js\jquery.nestable.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\nouislider\nouislider.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\peity\jquery.peity.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/perfect-scrollbar/css/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\perfect-scrollbar\css\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/pickadate/picker.date.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\pickadate\picker.date.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/pickadate/picker.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\pickadate\picker.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/pickadate/picker.time.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\pickadate\picker.time.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/pickadate/themes/default.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\pickadate\themes\default.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/pickadate/themes/default.date.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\pickadate\themes\default.date.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\raphael\raphael.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\select2\js\select2.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/star-rating/jquery.star-rating-svg.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\star-rating\jquery.star-rating-svg.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/star-rating/star-rating-svg.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\star-rating\star-rating-svg.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/svganimation/svg.animation.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\svganimation\svg.animation.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/svganimation/vivus.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\svganimation\vivus.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/sweetalert2/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/sweetalert2/dist/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\sweetalert2\dist\sweetalert2.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/swiper/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\swiper\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/swiper/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\swiper\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/tagify/dist/tagify.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\tagify\dist\tagify.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/tagify/dist/tagify.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\tagify\dist\tagify.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/toastr/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\toastr\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/toastr/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\toastr\js\toastr.min.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/vendor/wnumb/wNumb.js
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\vendor\wnumb\wNumb.js
+Content Type: application/x-javascript
+
+Uri: https://yashadmin.dexignzone.com/xhtml/widget-basic.html
+File Name: C:\Downloaded Web Sites\yashadmin.dexignzone.com\xhtml\widget-basic.html
+Content Type: text/html
+
