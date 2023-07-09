@@ -121,10 +121,12 @@
                                             <select class="form-select" aria-label="Default select example"
                                                 name="Divisi_id" autocomplete="off">
                                                 @foreach ($divisi as $divi)
+                                                @if ($divi->id != 1)
                                                 @if (old('Divisi_id' == $divi->id))
                                                 <option value="{{ $divi->id }}" selected>{{ $divi->nama }}</option>
                                                 @else
                                                 <option value="{{ $divi->id }}">{{ $divi->nama }}</option>
+                                                @endif
                                                 @endif
                                                 @endforeach
                                             </select>

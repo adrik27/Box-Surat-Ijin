@@ -1,16 +1,16 @@
 <div class="deznav">
     <div class="deznav-scroll">
         <ul class="metismenu" id="menu">
-            <li class="{{ Request::is(' Dashboard*')?'active' : '' }}">
-                <a href="/Dashboard" class="" aria-expanded="false">
+            <li class="{{ Request::is('Dashboard/Admin*')?'active' : '' }}">
+                <a href="/Dashboard/Admin" class="" aria-expanded="false">
                     <div class="menu-icon">
                         <i class="fas fa-solid fa-house fa-beat-fade"> </i>
                     </div>
                     <span class="nav-text"> Dashboard</span>
                 </a>
             </li>
-            <li class="{{ Request::is('Anggota*')?'active' : '' }}">
-                <a href="/Anggota" class="" aria-expanded="false">
+            <li class="{{ Request::is('Dashboard/Anggota*')?'active' : '' }}">
+                <a href="/Dashboard/Anggota" class="" aria-expanded="false">
                     <div class="menu-icon">
                         <i class="fas fa-solid fa-users fa-beat-fade"> </i>
                     </div>

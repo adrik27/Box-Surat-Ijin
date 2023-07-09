@@ -26,6 +26,7 @@ class DatabaseSeeder extends Seeder
 
         // user
         User::create([
+            'Divisi_id' => 1,
             'Role_id' => 1,
             'Status_id' => 2,
             'nama' => 'Admin',
@@ -47,6 +48,9 @@ class DatabaseSeeder extends Seeder
         ]);
 
         // Divisi
+        Divisi::create([
+            'nama' => 'Admin'
+        ]);
         Divisi::create([
             'nama' => 'KABAG'
         ]);

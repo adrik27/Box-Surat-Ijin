@@ -22,6 +22,8 @@
     <link href="template/xhtml/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
     <link href="template/xhtml/css/style.css" rel="stylesheet">
 
+    {{-- script untuk menampilkan capthca --}}
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
 <body class="vh-100">
@@ -87,7 +89,8 @@
                                                 <div class="tab-content w-100" id="nav-tabContent">
                                                     <div class="tab-pane fade show active" id="nav-personal"
                                                         role="tabpanel" aria-labelledby="nav-personal-tab">
-                                                        <form action="/" class=" dz-form pb-3" method="POST">
+                                                        <form action="/login" class=" dz-form pb-3" method="POST"
+                                                            id="myForm">
                                                             @csrf
                                                             <h3 class="form-title m-t0">Personal Information</h3>
                                                             <div class="dz-separator-outer m-b5">
@@ -100,7 +103,7 @@
                                                                     is-invalid
                                                                 @enderror" required autocomplete="off" autofocus
                                                                     placeholder="hello@example.com"
-                                                                    value="{{ old('nama') }}">
+                                                                    value="{{ old('email') }}">
                                                                 @error('email')
                                                                 <div class="invalid-feedback">
                                                                     {{ $message }}
@@ -119,6 +122,11 @@
                                                                 @enderror
                                                             </div>
 
+                                                            {{-- kode untuk menampilkan capthca --}}
+                                                            <div class="g-recaptcha"
+                                                                data-sitekey="{{ env('RECAPTCHA_SITE_KEY') }}"
+                                                                name="g-recaptcha-response">
+                                                            </div>
 
                                                             <div class="text-center bottom ">
                                                                 <button class="btn btn-primary button-md btn-block"
@@ -126,6 +134,7 @@
 
                                                             </div>
                                                         </form>
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -183,6 +192,12 @@
     <script src="template/xhtml/js/custom.js"></script>
     <script src="template/xhtml/js/demo.js"></script>
     <script src="template/xhtml/js/styleSwitcher.js"></script>
+
+    <script>
+        function onSubmit(token) {
+        document.getElementById("myForm").submit();
+    }
+    </script>
 </body>
 
 </html>
