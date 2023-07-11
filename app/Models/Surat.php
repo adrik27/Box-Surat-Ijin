@@ -16,7 +16,7 @@ class Surat extends Model
 
     public function User()
     {
-        return $this->hasMany(User::class, 'User_id');
+        return $this->belongsTo(User::class, 'email');
     }
 
     public function KategoriSurat()

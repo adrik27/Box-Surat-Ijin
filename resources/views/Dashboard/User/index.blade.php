@@ -26,7 +26,7 @@
 
 <div class="row">
     <div class="col-md">
-        <a href="/Dashboard/Anggota/create" class="btn btn-sm btn-success">Tambah Anggota</a>
+        <a href="/Dashboard/User/create" class="btn btn-sm btn-success">Tambah Anggota</a>
     </div>
 </div>
 
@@ -36,7 +36,7 @@
             <div class="card-body p-0">
                 <div class="table-responsive active-projects">
                     <div class="tbl-caption">
-                        <h4 class="heading mb-0">Active Projects</h4>
+                        <h4 class="heading mb-0">Anggota </h4>
                     </div>
                     <div id="projects-tbl_wrapper" class="dataTables_wrapper no-footer">
                         <div class="dt-buttons"><button
@@ -101,16 +101,17 @@
                                     <td>
                                         <div class="aksi d-flex gap-2">
                                             <div class="edit">
-                                                <a href="/Dashboard/Anggota/{{ $us->id }}/Edit"
+                                                <a href="/Dashboard/User/{{ $us->id }}/edit"
                                                     class="btn btn-sm btn-warning">Edit</a>
                                             </div>
                                             <div class="detail">
-                                                <a href="/Dashboard/Anggota/{{ $us->id }}/Detail"
+                                                <a href="/Dashboard/User/{{ $us->id }}"
                                                     class="btn btn-sm btn-info">Detail</a>
                                             </div>
                                             <div class="hapus">
-                                                <form action="/Dashboard/Anggota/{{ $us->id }}/Destroy" method="POST"
+                                                <form action="/Dashboard/User/{{ $us->id }}" method="POST"
                                                     enctype="multipart/form-data">
+                                                    @method('DELETE')
                                                     @csrf
 
                                                     <button type="submit" class="btn btn-sm btn-danger"

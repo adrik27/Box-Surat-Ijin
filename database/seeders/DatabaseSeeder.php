@@ -44,7 +44,7 @@ class DatabaseSeeder extends Seeder
             'nama'  => 'Acc'
         ]);
         Status::create([
-            'nama'  => 'Tolat'
+            'nama'  => 'Tolak'
         ]);
 
         // Divisi

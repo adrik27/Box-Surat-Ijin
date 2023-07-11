@@ -22,6 +22,8 @@ return new class extends Migration
             $table->string('telp');
             $table->string('email');
             $table->string('password');
+            $table->string('StatusHRD')->nullable();
+            $table->string('StatusKABAG')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

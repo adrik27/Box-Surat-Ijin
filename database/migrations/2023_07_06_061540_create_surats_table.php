@@ -13,14 +13,13 @@ return new class extends Migration
     {
         Schema::create('surats', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('User_id');
             $table->foreignId('KategoriSurat_id');
-            $table->foreignId('Status_id');
+            $table->string('email');
             $table->string('TanggalMulaiIjin');
             $table->string('TanggalSelesaiIjin');
-            $table->string('statusKabag');
-            $table->string('statusHrd');
-            $table->string('catatan');
+            $table->string('StatusKabag');
+            $table->string('StatusHrd');
+            $table->text('catatan');
             $table->string('gambar');
             $table->timestamps();
         });

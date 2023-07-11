@@ -19,7 +19,7 @@ class UserController extends Controller
      */
     public function index()
     {
-        return view('Dashboard.Anggota.index', [
+        return view('Dashboard.User.index', [
             'users'     => User::where('Divisi_id', 2)
                 ->orWhere('Divisi_id', 3)
                 ->orWhere('Divisi_id', 4)->get()
@@ -31,7 +31,7 @@ class UserController extends Controller
      */
     public function create()
     {
-        return view('Dashboard.Anggota.create', [
+        return view('Dashboard.User.create', [
             'divisi'    =>  Divisi::all(),
             'role'      =>  Role::all()
         ]);
@@ -68,9 +68,84 @@ class UserController extends Controller
 
         User::create($validateCreate);
 
-        return redirect('/Dashboard/Anggota')->with('success', 'Berhasil Menambah Anggota !!');
+        return redirect('/Dashboard/User')->with('success', 'Berhasil Menambah Anggota !!');
     }
 
+    /**
+     * Display the specified resource.
+     */
+    public function show(User $User)
+    {
+        return view('Dashboard.User.detail', [
+            'us'    => $User
+        ]);
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit(User $User)
+    {
+        return view('Dashboard.User.edit', [
+            'us'      =>  $User,
+            'divisi'    =>  Divisi::all(),
+            'role'      =>  Role::all(),
+            'status'    =>  Status::all()
+        ]);
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, User $User)
+    {
+        $validateUpdate = $request->validate([
+            'gambar'    =>  'image',
+            'nama'      =>  'required',
+            'alamat'    =>  'required',
+            'telp'      =>  'required',
+            'email'     =>  'required|email:dns',
+            // 'password'  =>  'nullable|min:8',
+            'Divisi_id' =>  'required',
+            'Role_id'   =>  'required',
+            'Status_id'   =>  'required',
+        ]);
+
+        if ($request->file('gambar')) {
+            if ($request->gambar_old) {
+                Storage::delete($request->gambar_old);
+            }
+
+            $validateUpdate['gambar']  =   $request->file('gambar')->store('Profil-images');
+        }
+
+
+        if (substr($validateUpdate['telp'], 0, 1) === "0") {
+            $validateUpdate['telp'] = "+62" . substr($validateUpdate['telp'], 1);
+        }
+
+
+
+        // dd($validateUpdate);
+        User::where('id', $User->id)
+            ->update($validateUpdate);
+
+        return redirect('/Dashboard/User')->with('success', 'Berhasil Mengupdate Anggota !!');
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(User $User)
+    {
+        if ($User->gambar) {
+            Storage::delete($User->gambar);
+        }
+
+        User::destroy($User->id);
+
+        return redirect('/Dashboard/User')->with('success', 'Data berhasil di hapus !');
+    }
 
     // REGISTRASI
     public function registrasi()
@@ -104,15 +179,15 @@ class UserController extends Controller
 
         $createRegis['Status_id'] = 1;
 
-        if ($request->Role_id == 2 && $request->Divisi_id == 1) {
+        if ($request->Role_id == 2 && $request->Divisi_id == 2) {
             User::create($createRegis);
 
             return redirect('/')->with('warning', 'Registrasi berhasil !! Silahkan hubungi admin di email admin@gmail.com untuk konfirmasi agar akun aktif !!');
-        } elseif ($request->Role_id == 3 && $request->Divisi_id == 2) {
+        } elseif ($request->Role_id == 3 && $request->Divisi_id == 3) {
             User::create($createRegis);
 
             return redirect('/')->with('warning', 'Registrasi berhasil !! Silahkan hubungi admin di email admin@gmail.com untuk konfirmasi agar akun aktif !!');
-        } elseif ($request->Role_id == 4 && $request->Divisi_id == 3) {
+        } elseif ($request->Role_id == 4 && $request->Divisi_id == 4) {
             User::create($createRegis);
 
             return redirect('/')->with('warning', 'Registrasi berhasil !! Silahkan hubungi admin di email admin@gmail.com untuk konfirmasi agar akun aktif !!');
@@ -147,9 +222,9 @@ class UserController extends Controller
             } elseif ($user->Role_id == 2 && $user->Divisi_id == 2 && $user->Status_id == 2) {
                 return redirect()->intended('/Dashboard/Kabag');
             } elseif ($user->Role_id == 3 && $user->Divisi_id == 3 && $user->Status_id == 2) {
-                return redirect()->intended('/Dashboard/Hrd');
+                return redirect()->intended('/Dashboard/HRD');
             } elseif ($user->Role_id == 4 && $user->Divisi_id == 4 && $user->Status_id == 2) {
-                return redirect()->intended('/Dashboard/Pegawai');
+                return redirect()->intended('/Dashboard/Surat');
             } elseif ($user->Status_id == 3) {
                 return Redirect()->back()->with('gagal', 'Maaf akun anda di TOLAK silahkan hubungi admin di email admin@gmail.com');
             }
@@ -168,67 +243,67 @@ class UserController extends Controller
         return redirect('/');
     }
 
-    public function detail(User $User)
-    {
-        return view('Dashboard.Anggota.detail', [
-            'us'    => $User
-        ]);
-    }
+    // public function detail(User $User)
+    // {
+    //     return view('Dashboard.Anggota.detail', [
+    //         'us'    => $User
+    //     ]);
+    // }
 
-    public function hapus(User $User)
-    {
-        if ($User->gambar) {
-            Storage::delete($User->gambar);
-        }
+    // public function hapus(User $User)
+    // {
+    //     if ($User->gambar) {
+    //         Storage::delete($User->gambar);
+    //     }
 
-        User::destroy($User->id);
+    //     User::destroy($User->id);
 
-        return redirect('/Dashboard/Anggota')->with('success', 'Data berhasil di hapus !');
-    }
+    //     return redirect('/Dashboard/Anggota')->with('success', 'Data berhasil di hapus !');
+    // }
 
-    public function edit(User $User)
-    {
-        return view('Dashboard.Anggota.edit', [
-            'us'      =>  $User,
-            'divisi'    =>  Divisi::all(),
-            'role'      =>  Role::all(),
-            'status'    =>  Status::all()
-        ]);
-    }
+    // public function edit(User $User)
+    // {
+    //     return view('Dashboard.Anggota.edit', [
+    //         'us'      =>  $User,
+    //         'divisi'    =>  Divisi::all(),
+    //         'role'      =>  Role::all(),
+    //         'status'    =>  Status::all()
+    //     ]);
+    // }
 
-    public function prosesedit(Request $request, User $User)
-    {
-        $validateUpdate = $request->validate([
-            'gambar'    =>  'image',
-            'nama'      =>  'required',
-            'alamat'    =>  'required',
-            'telp'      =>  'required',
-            'email'     =>  'required|email:dns',
-            // 'password'  =>  'nullable|min:8',
-            'Divisi_id' =>  'required',
-            'Role_id'   =>  'required',
-            'Status_id'   =>  'required',
-        ]);
+    // public function prosesedit(Request $request, User $User)
+    // {
+    //     $validateUpdate = $request->validate([
+    //         'gambar'    =>  'image',
+    //         'nama'      =>  'required',
+    //         'alamat'    =>  'required',
+    //         'telp'      =>  'required',
+    //         'email'     =>  'required|email:dns',
+    //         // 'password'  =>  'nullable|min:8',
+    //         'Divisi_id' =>  'required',
+    //         'Role_id'   =>  'required',
+    //         'Status_id'   =>  'required',
+    //     ]);
 
-        if ($request->file('gambar')) {
-            if ($request->gambar_old) {
-                Storage::delete($request->gambar_old);
-            }
+    //     if ($request->file('gambar')) {
+    //         if ($request->gambar_old) {
+    //             Storage::delete($request->gambar_old);
+    //         }
 
-            $validateUpdate['gambar']  =   $request->file('gambar')->store('Profil-images');
-        }
-
-
-        if (substr($validateUpdate['telp'], 0, 1) === "0") {
-            $validateUpdate['telp'] = "+62" . substr($validateUpdate['telp'], 1);
-        }
+    //         $validateUpdate['gambar']  =   $request->file('gambar')->store('Profil-images');
+    //     }
 
 
+    //     if (substr($validateUpdate['telp'], 0, 1) === "0") {
+    //         $validateUpdate['telp'] = "+62" . substr($validateUpdate['telp'], 1);
+    //     }
 
-        // dd($validateUpdate);
-        User::where('id', $User->id)
-            ->update($validateUpdate);
 
-        return redirect('/Dashboard/Anggota')->with('success', 'Berhasil Mengupdate Anggota !!');
-    }
+
+    //     // dd($validateUpdate);
+    //     User::where('id', $User->id)
+    //         ->update($validateUpdate);
+
+    //     return redirect('/Dashboard/Anggota')->with('success', 'Berhasil Mengupdate Anggota !!');
+    // }
 }

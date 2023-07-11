@@ -12,7 +12,9 @@ class KategoriSuratController extends Controller
      */
     public function index()
     {
-        //
+        return view('Dashboard.KategoriSurat.index', [
+            'kategoris' =>  KategoriSurat::all()
+        ]);
     }
 
     /**
@@ -20,7 +22,7 @@ class KategoriSuratController extends Controller
      */
     public function create()
     {
-        //
+        return view('Dashboard.KategoriSurat.create');
     }
 
     /**
@@ -28,13 +30,21 @@ class KategoriSuratController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        if ($request->nama) {
+            $createData = $request->validate([
+                'nama'  =>  'required'
+            ]);
+            KategoriSurat::create($createData);
+            return redirect('Dashboard/KategoriSurat')->with('success', 'Tambah kategori box sukses !!');
+        } else {
+            return redirect('Dashboard/KategoriSurat')->with('error', 'Tambah kategori box gagal !!');
+        }
     }
 
     /**
      * Display the specified resource.
      */
-    public function show(KategoriSurat $kategoriSurat)
+    public function show(KategoriSurat $KategoriSurat)
     {
         //
     }
@@ -42,24 +52,38 @@ class KategoriSuratController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(KategoriSurat $kategoriSurat)
+    public function edit(KategoriSurat $KategoriSurat)
     {
-        //
+        return view('Dashboard.KategoriSurat.edit', [
+            'kb'    =>  $KategoriSurat
+        ]);
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, KategoriSurat $kategoriSurat)
+    public function update(Request $request, KategoriSurat $KategoriSurat)
     {
-        //
+        if ($request->nama) {
+            $createData = $request->validate([
+                'nama'  =>  'required'
+            ]);
+            KategoriSurat::where('id', $KategoriSurat->id)
+                ->update($createData);
+
+            return redirect('Dashboard/KategoriSurat')->with('success', 'Update kategori box sukses !!');
+        } else {
+            return redirect('Dashboard/KategoriSurat')->with('error', 'Update kategori box gagal !!');
+        }
     }
 
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(KategoriSurat $kategoriSurat)
+    public function destroy(KategoriSurat $KategoriSurat)
     {
-        //
+        KategoriSurat::destroy($KategoriSurat->id);
+
+        return redirect('Dashboard/KategoriSurat')->with('success', 'Delete kategori box sukses !!');
     }
 }

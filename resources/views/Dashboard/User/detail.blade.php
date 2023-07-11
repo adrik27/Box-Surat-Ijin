@@ -42,7 +42,7 @@
                         </div>
                     </div>
                     <div class="kembali">
-                        <a href="/Dashboard/Anggota" class="btn btn-sm btn-danger">Kembali</a>
+                        <a href="/Dashboard/User" class="btn btn-sm btn-danger">Kembali</a>
                     </div>
                 </div>
             </div>

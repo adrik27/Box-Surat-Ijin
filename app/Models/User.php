@@ -57,7 +57,7 @@ class User extends Authenticatable
 
     public function Surat()
     {
-        return $this->belongsTo(Surat::class);
+        return $this->hasMany(Surat::class);
     }
 
     public function Role()
