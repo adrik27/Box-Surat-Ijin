@@ -2,9 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\KategoriSurat;
 use App\Models\Surat;
 use Illuminate\Http\Request;
+use App\Models\KategoriSurat;
 use Illuminate\Support\Facades\Storage;
 
 class SuratController extends Controller
@@ -25,7 +25,7 @@ class SuratController extends Controller
     public function create()
     {
         return view('Dashboard.Surat.create', [
-            'kategoriSurat' =>  KategoriSurat::all()
+            'kategoriSurat' =>  KategoriSurat::all(),
         ]);
     }
 
