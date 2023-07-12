@@ -47,9 +47,9 @@
             <li class="{{ Request::is('Dashboard/Surat*')?'active' : '' }}">
                 <a href="/Dashboard/Surat" class="" aria-expanded="false">
                     <div class="menu-icon">
-                        <i class="fas fa-solid fa-parachute-box fa-beat-fade"> </i>
+                        <i class="fas fa-solid fa-parachute-box fa-beat-fade"></i>
                     </div>
-                    <span class="nav-text"> Box</span>
+                    <span class="nav-text">Box</span>
                 </a>
             </li>
             @endcan

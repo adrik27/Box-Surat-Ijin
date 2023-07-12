@@ -161,10 +161,15 @@
                                             </div>
                                         </div>
                                         @else
-                                        <div class="aksi d-flex gap-2 justify-content-center">
-                                            <div class="kosongan">
-                                                <span class="badge badge-sm badge-info">Selesai</span>
-                                            </div>
+                                        <div class="hapus">
+                                            <form action="/Dashboard/Surat/{{ $sp->id }}" method="POST"
+                                                enctype="multipart/form-data">
+                                                @method('DELETE')
+                                                @csrf
+
+                                                <button type="submit" class="btn btn-sm btn-danger"
+                                                    onclick="return confirm('Apakah anda yakin untuk menghapus data ini ?')">Hapus</button>
+                                            </form>
                                         </div>
                                         @endif
                                     </td>
