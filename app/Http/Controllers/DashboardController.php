@@ -2,6 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Divisi;
+use App\Models\Surat;
+use App\Models\User;
 use Illuminate\Http\Request;
 
 class DashboardController extends Controller
@@ -11,7 +14,20 @@ class DashboardController extends Controller
      */
     public function index()
     {
-        return view('Dashboard.Admin.index');
+        return view('Dashboard.Admin.index', [
+            // USER/ANGGOTA
+            'user'  => User::all(),
+            'acc'   => User::where('Status_id', 2)->get(),
+            'tolak'   => User::where('Status_id', 3)->get(),
+
+            // DIVISI
+            'divisi'    =>  Divisi::all(),
+
+            // SURAT
+            'surat'     =>  Surat::all(),
+            'kabag'     =>  Surat::where('StatusKabag', 'Acc')->get(),
+            'hrd'       =>  Surat::where('StatusHrd', 'Acc')->get(),
+        ]);
     }
 
     /**
